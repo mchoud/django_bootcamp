@@ -1,2 +1,1 @@
-bootcamp/__pycache__/urls.cpython-39.pyc
-products/__pycache__/views.cpython-39.pyc
+*.pyc
