@@ -16,4 +16,4 @@ def product_api_detail_view(request, *args, **kwargs):
     return JsonResponse({"id": obj.id})
 
 # class HomeView():
-#     pass
+#     pass merdeka
